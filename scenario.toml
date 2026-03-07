@@ -14,7 +14,7 @@ env = { LOG_LEVEL = "INFO", DEEPSEEK_API_KEY = "${DEEPSEEK_API_KEY}", KIMI_API_K
 
 [config]
 task_limit = 20
-run_id = 5
+run_id = 6
 drift_level = "none"
 rot_level = "none"
 org_type = "b2b"
