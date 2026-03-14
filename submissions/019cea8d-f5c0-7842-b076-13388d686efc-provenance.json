@@ -1,0 +1,22 @@
+{
+  "image_digests": {
+    "/agent": "public.ecr.aws/d9m7h3k5/agentbench-purple@sha256:26b446a4a1c9d59dfde52aa0bb41fa9af7a3f52d792e36ef6a1fe0a25ee97888",
+    "/gateway": "ghcr.io/rdi-foundation/agentbeats-gateway@sha256:8f1ee0e6e2d3455fb3c9bc712ec29644849e7dea753377ea210a0576abebeca3",
+    "/green": "ghcr.io/rkstu/entropic-crmarena-green@sha256:f801c2584235faa0750eae35eeba494107919a59eb12bb4e53ede15e9ff620d3"
+  },
+  "manifest_digests": {
+    "/": "sha256:nLWJmFfLCkSTqHgEe93lxKiKLbdVde2D25twI6tvs98=",
+    "/agent": "sha256:JOGfG7T6WpTrZ3gaQicAKG3jQCZrPDGM1tSytx8I2uo=",
+    "/gateway": "sha256:CoXy/8t84D5WN73GbS6SKudouTaCtwebINs8gjWo0NQ=",
+    "/green": "sha256:k8OgVdBUF4/BZgkusj+u0hXM21LpsPyBWZg6MhL8fPk="
+  },
+  "timestamp": "2026-03-14T04:16:20Z",
+  "github_actions": {
+    "run_url": "https://github.com/RDI-Foundation/DeoGaze-agentbeats-leaderboard/actions/runs/23080183632",
+    "ref": "refs/pull/14/merge",
+    "sha": "9f55794db65d4d8dc0314d425d6ca15d7713b126",
+    "repository_url": "https://github.com/RDI-Foundation/DeoGaze-agentbeats-leaderboard",
+    "workflow_ref": "RDI-Foundation/DeoGaze-agentbeats-leaderboard/.github/workflows/quick-submit.yml@refs/pull/14/merge",
+    "workflow_sha": "9f55794db65d4d8dc0314d425d6ca15d7713b126"
+  }
+}
